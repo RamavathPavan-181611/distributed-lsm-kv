@@ -172,7 +172,7 @@ Or open the URL in a browser — the dashboard auto-connects via WebSocket and s
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ```
 .
@@ -202,7 +202,7 @@ Or open the URL in a browser — the dashboard auto-connects via WebSocket and s
 
 ---
 
-## 🛠️ Key Design Decisions
+## 🛠️ KEY DESIGN DECISIONS
 
 | Decision | Why |
 |---|---|
